@@ -1,4 +1,4 @@
-cMVAv2;OperatingPoint, measurementType, sysType, jetFlavor, etaMin, etaMax, ptMin, ptMax, discrMin, discrMax, formula 
+cMVAv2;OperatingPoint, measurementType, sysType, jetFlavor, etaMin, etaMax, ptMin, ptMax, discrMin, discrMax,  formula 
 0, ttbar, central, 1, -2.4, 2.4, 30, 600, 0, 1, "0.976111+(-(4.37632e-05*x))" 
 0, ttbar, central, 0, -2.4, 2.4, 30, 600, 0, 1, "0.976111+(-(4.37632e-05*x))" 
 0, ttbar, down, 1, -2.4, 2.4, 30, 50, 0, 1, "0.976111+((-(4.37632e-05*x))-0.040088377892971039)" 
